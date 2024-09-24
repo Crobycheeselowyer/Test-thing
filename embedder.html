@@ -35,6 +35,10 @@
     <script type="text/javascript">
         var urlobj = new window.URL(window.location.href);
         let url = prompt("url?")
+        function NewTab() {
+            window.open(url,
+                "", "width=300, height=300");
+        }
         if (url) {
             var win;
             document.querySelector('button'). onclick = function() {
@@ -55,6 +59,16 @@
             }
             location.reload();
             }
+        }
+    </script>
+  <button class="but2" onclick="NewTab()">
+        Unblocktest
+    </button>
+
+    <script>
+        function NewTab() {
+            window.open("https://www.geeksforgeeks.org",
+                "", "width=300, height=300");
         }
     </script>
 </body>
