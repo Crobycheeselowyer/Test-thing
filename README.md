@@ -1,13 +1,10 @@
-### How do you use the embedder?
+Download the zip thing. 
+Take it to my files.
+Extract it.
+Open the folder titled Chrome Project data.
+Open index.html and add it to bookmarks. 
+And ur done!
 
-1. Clone the repo
-2. Open the folder that you cloned the repo into
-3. Open <a href="embedder.html">embedder.html</a> in a web browser of your choice
-4. In the prompt, type or paste the url of the website (**include** <code>https://</code> **or** <code>http://</code>) and hit enter
-5. Click on <code>embed about:blank</code>
-6. The page will open in a new tab
 
-### Extra info
 
-+ More things, including the embedder, are on my github pages website, <a href="https://tmk2-0.github.io">tmk2-0.github.io</a>
-+ For even more projects, click <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">here</a>
+Idk how I beat the blocking stuff btw
